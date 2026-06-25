@@ -1,0 +1,62 @@
+{
+    "P001": {
+        "name": "Ramesh Singh",
+        "city": "Orai",
+        "age": 20,
+        "gender": "Female",
+        "height": 1.6,
+        "weight": 48.0,
+        "bmi": 18.75,
+        "verdict": "Normal weight"
+    },
+    "P002": {
+        "name": "Bob Smith",
+        "city": "Los Angeles",
+        "age": 45,
+        "gender": "Male",
+        "height": 1.8,
+        "weight": 85,
+        "bmi": 26.2,
+        "verdict": "Overweight"
+    },
+    "P003": {
+        "name": "Carol Lee",
+        "city": "Chicago",
+        "age": 33,
+        "gender": "Female",
+        "height": 1.6,
+        "weight": 52,
+        "bmi": 20.3,
+        "verdict": "Healthy"
+    },
+    "P004": {
+        "name": "David Brown",
+        "city": "Houston",
+        "age": 50,
+        "gender": "Male",
+        "height": 1.75,
+        "weight": 95,
+        "bmi": 31.0,
+        "verdict": "Obese"
+    },
+    "P005": {
+        "name": "Eva Green",
+        "city": "Phoenix",
+        "age": 22,
+        "gender": "Female",
+        "height": 1.68,
+        "weight": 55,
+        "bmi": 19.5,
+        "verdict": "Underweight"
+    },
+    "P006": {
+        "name": "Rahul Gupta",
+        "city": "New Delhi",
+        "age": 30,
+        "gender": "Male",
+        "height": 1.64,
+        "weight": 67.0,
+        "bmi": 24.91,
+        "verdict": "Normal weight"
+    }
+}
